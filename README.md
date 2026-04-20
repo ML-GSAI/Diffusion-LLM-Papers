@@ -35,6 +35,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference**  
 2025-8-4, [Paper](https://www.arxiv.org/abs/2508.02193)  
 
+**Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models**  
+2026-1-16, [Paper](https://arxiv.org/abs/2601.07351), [Code](https://github.com/aim-uofa/EvoTokenDLM)
+
 
 
 ## Multimodal Model
@@ -106,6 +109,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 
 **DPad: Efficient Diffusion Language Models with Suffix Dropout**  
 2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
+
+**Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration**  
+2026-3-3, [Paper](https://arxiv.org/abs/2603.02760)
 
 
 ## Reinforcement Learning
