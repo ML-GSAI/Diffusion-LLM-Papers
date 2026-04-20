@@ -154,6 +154,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Any-Order Flexible Length Masked Diffusion**  
 2025-8-31, [Paper](https://arxiv.org/pdf/2509.01025)
 
+**Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration**  
+2026-3-3, [Paper](https://arxiv.org/abs/2603.02760)
+
 ## Others
 **Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models**  
 2025-8-12, [Paper](https://arxiv.org/abs/2508.09138)  
