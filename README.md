@@ -60,6 +60,7 @@ Since our time is limited and we can't cover everything, **please feel free to s
 2025-8-9, [Paper](https://arxiv.org/abs/2508.07048)
 
 ## Fast Sampling
+- **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** (2026) [[arXiv](https://arxiv.org/abs/2606.02955)] [[Code](https://github.com/Ringo-Star/FastdLLM_plusplus)] [[Project Page](https://ringo-star.github.io/projectpage_frechet/)]
 ### Enable KV Cache
 **dKV-Cache: The Cache for Diffusion Language Models**  
 2025-5-21, [Paper](https://arxiv.org/abs/2505.15781)
