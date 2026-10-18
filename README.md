@@ -107,6 +107,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs**  
 2025-7-24，[Paper](https://arxiv.org/abs/2507.18578)
 
+**Empirical Analysis of Decoding Biases in Masked Diffusion Models (UNCODE, formerly PC-Sampler)**  
+2025-8-18, [Paper](https://arxiv.org/abs/2508.13021), [Code](https://github.com/NEUIR/Uncode)
+
 **DPad: Efficient Diffusion Language Models with Suffix Dropout**  
 2025-8-19, [Paper](https://arxiv.org/abs/2508.14148)
 
