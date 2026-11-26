@@ -38,6 +38,9 @@ Since our time is limited and we can't cover everything, **please feel free to s
 **Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models**  
 2026-1-16, [Paper](https://arxiv.org/abs/2601.07351), [Code](https://github.com/aim-uofa/EvoTokenDLM)
 
+**On the Importance of Hidden-State Refinement in Masked Diffusion Language Models**  
+2026-11-24, [Paper](https://arxiv.org/abs/2611.32416), [Code](https://github.com/zhongzero/Recurrent-DLLM)
+
 
 
 ## Multimodal Model
